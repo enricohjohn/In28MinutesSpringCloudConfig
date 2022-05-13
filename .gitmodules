@@ -1,0 +1,4 @@
+[submodule "In28MinutesSpringCloud"]
+	path = In28MinutesSpringCloud
+	url = https://github.com/enricohjohn/In28MinutesSpringCloud.git
+	branch = main
